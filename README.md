@@ -22,7 +22,7 @@ The training process is very stable in our experiments. It convergences very fas
 
 
 ## Demo for using ASFormer as your backbone
-In our paper, we replace the original TCN-based backbone model [MS-TCN](10) in [ASRF]() with our ASFormer.  The new model achieves even higher results on the 50salads dataset than the original ASRF. [Code is Here](https://github.com/ChinaYi/asrf_with_asformer).
+In our paper, we replace the original TCN-based backbone model [MS-TCN](https://github.com/yabufarha/ms-tcn) in [ASRF](https://github.com/yiskw713/asrf) with our ASFormer.  The new model achieves even higher results on the 50salads dataset than the original ASRF. [Code is Here](https://github.com/ChinaYi/asrf_with_asformer).
 
 
 ------
